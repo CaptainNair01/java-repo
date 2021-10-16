@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Game1 {
     public static void main(String[] args){
         int t=2, x=0;
